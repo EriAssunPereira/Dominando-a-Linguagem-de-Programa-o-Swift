@@ -1,0 +1,36 @@
+**Descrição do Projeto:**
+
+Neste desafio de projeto, você terá a oportunidade de aplicar os conceitos aprendidos durante o curso, criando dois projetos no **Playground** usando o **Xcode**. Vamos explorar o **Paradigma de Programação Orientada a Objetos (POO)** em ambos os projetos e também abordar outros tópicos como **Controle de Fluxos, Coleções, Funções, Closures, Enuns, Structs e Concorrência**.
+
+Aqui estão os detalhes:
+
+1. **Primeiro Projeto (POO):**
+   - Crie um novo arquivo no seu Playground para o primeiro projeto.
+   - Explore o **Paradigma de Programação Orientada a Objetos**:
+     - Crie classes representando entidades (por exemplo, Pessoa, Animal, Veículo).
+     - Defina propriedades e métodos relevantes para cada classe.
+     - Experimente com herança, encapsulamento e polimorfismo.
+     - Pense em cenários onde a abstração e a reutilização de código são relevantes.
+     - Crie instâncias das suas classes e teste suas funcionalidades.
+
+2. **Segundo Projeto (Outros Conceitos):**
+   - Crie outro arquivo no seu Playground para o segundo projeto.
+   - Além do POO, explore outros tópicos como:
+     - **Controle de Fluxos**: Utilize estruturas condicionais (if, switch) e loops (for, while) para controlar o fluxo do programa.
+     - **Coleções**: Trabalhe com arrays, dicionários e sets.
+     - **Funções e Closures**: Crie funções e explore closures.
+     - **Enuns e Structs**: Defina enumerações e structs para modelar dados.
+     - **Concorrência**: Experimente com concorrência usando Dispatch Queues ou async/await.
+   - Pense em um cenário específico onde você pode aplicar esses conceitos.
+   - Modele as classes, funções e estruturas de acordo com o contexto.
+   - Teste seu código e verifique se ele está funcionando conforme o esperado.
+
+3. **Organização e Documentação:**
+   - Mantenha seu código organizado e legível.
+   - Comente seu código para explicar a lógica por trás das decisões de design.
+   - Siga as melhores práticas de programação.
+
+https://github.com/robixnai/fundamentosLinguagemProgramacaoSwift
+https://github.com/robixnai/programacaoOrientadaObjetosSwift
+https://github.com/robixnai/programacaoOrientadaProtocolosSwift
+https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EZcbWNOKR4xEkkCbuult8ekB_GfmbkUMnxF0pxb4krRTFA?e=WQn6Dq
